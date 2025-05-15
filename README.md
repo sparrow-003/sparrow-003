@@ -46,11 +46,11 @@
 <table align="center">
   <tr>
     <td><img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png"/></td>
-    <td><a href="https://wa.me/919176293458" target="_blank" style="color:#34C759; font-size: 1.1em;">+91 91762 93458</a></td>
+    <td><a href="https://wa.link/pnboci" target="_blank" style="color:#34C759; font-size: 1.1em;">+91 91762 93458</a></td>
   </tr>
   <tr>
     <td><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></td>
-    <td><a href="https://www.linkedin.com/in/ananth-n-dev" target="_blank" style="color:#0A66C2; font-size: 1.1em;">linkedin.com/in/ananth-n-dev</a></td>
+    <td><a href="[https://www.linkedin.com/in/ananth-n-dev](https://www.linkedin.com/in/ananth-n-583036233?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" style="color:#0A66C2; font-size: 1.1em;">linkedin.com/in/ananth-n-dev</a></td>
   </tr>
 </table>
 
