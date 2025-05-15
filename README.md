@@ -1,42 +1,68 @@
-<!-- Header Section -->
-<h1 align="center" style="color:#7A288A;">Hi 👋, I'm <span style="color:#34C759;">ANANTH</span></h1>
-<h3 align="center" style="color:#F7DC6F;">🚀 Full-stack Student Developer | UI/UX Futurist | AI Enthusiast</h3>
+<h1 align="center" style="color:#7A288A; font-size: 3.2em; font-weight: bold; text-shadow: 2px 2px 8px rgba(0,0,0,0.25);">
+  ANANTH N
+</h1>
+
+<h3 align="center" style="color:#F7DC6F; font-size: 1.6em; margin-top: -10px;">
+  🚀 Architecting Tomorrow | UI/UX Visionary | Full-Stack Student Developer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=34C759&center=true&vCenter=true&width=440&lines=Elite+Developer;Creative+UI%2FUX+Designer;Open+Source+Lover;AI+Engineer+in+Progress" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=34C759&center=true&vCenter=true&width=500&lines=Elite+Developer;Creative+UI%2FUX+Designer;Open+Source+Lover;AI+Engineer+in+Progress" alt="Typing SVG" />
 </p>
 
 ---
 
-<!-- About Me -->
 ## 💎 About Me
 
-🌌 I’m **Ananth N**, a futuristic software builder on a mission to shape the **next-gen web experiences** that blend intelligence, elegance, and performance.
+🎓 I'm <strong>Ananth N</strong>, a passionate full-stack student developer focused on building elegant, intelligent, and future-ready digital experiences.
 
-### 🧠 What Drives Me
-- 🎨 Designing futuristic **UI/UX** (Glassmorphism, Neumorphism, Framer Motion)
-- ⚙️ Architecting powerful **SaaS tools** like **Selena** under **Socia**
-- 🧩 Combining **AI + Automation** for real-world business solutions
-- 📊 Building enterprise platforms (CRM, Finance, Property, Healthcare, Events)
+💡 I thrive at the intersection of design, code, and AI — transforming vision into powerful software under my company, <strong>SOCIA</strong>.
 
 ---
 
-<!-- Tech Stack -->
-## 🛠️ Tech Stack
+## 🚀 What I Do
 
-```bash
-💻 Languages:        JavaScript | TypeScript | Python | C++
-🌐 Frontend:         React.js | Next.js | Tailwind CSS | Three.js | HTML5/CSS3
-🧠 AI/Automation:    HuggingFace | OpenAI | Langchain | Zapier | GPT APIs
-🗃️ Backend:          Node.js | Django | Supabase | Firebase | REST & GraphQL
-🧑‍💻 Dev Tools:       VS Code | Git/GitHub | Docker | Postman | Figma
-☁️ Cloud & DB:       | Supabase | MongoDB | MySQL
+- 🎨 Designing **futuristic UI/UX** with Glassmorphism, Neumorphism & Framer Motion  
+- 🧠 Building AI-powered SaaS tools like <strong>Selena</strong>  
+- 💼 Engineering enterprise-grade apps: CRM, Finance, Property, Healthcare, etc.  
+- ⚡ Automating tasks using **AI**, **LangChain**, and scalable APIs  
 
+---
 
+## 🛠️ My Tech Stack
 
-🌐 Connect With Me
-<p align="center"> <a href="https://www.linkedin.com/in/ananth-n-583036233?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Ananth.N-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> &nbsp; <a href="https://wa.link/pnboci" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a> </p>
+| 💻 Languages | 🌐 Frontend | 🧠 AI & Automation |
+|-------------|-------------|-------------------|
+| JavaScript, TypeScript, Python, C++ | React, Tailwind, Three.js, Next.js, HTML/CSS, Framer Motion | Python, HuggingFace, OpenAI, LangChain, Zapier |
 
-"Build like a designer. Think like an engineer. Evolve like an artist."
+| 🗃️ Backend & DB | ☁️ Cloud / DevOps | 🧑‍💻 Dev Tools |
+|------------------|------------------|----------------|
+| Node.js, Django, Firebase, Supabase, MongoDB, MySQL | AWS, GCP, Vercel, Netlify, CI/CD | VS Code, Git, Postman, Docker, Figma |
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ananthofficial&label=Profile+Views&color=7A288A&style=flat-square" alt="Profile views" /> </p> ```
+---
+
+## 📱 Connect with Me
+
+<table align="center">
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png"/></td>
+    <td><a href="https://wa.me/919176293458" target="_blank" style="color:#34C759; font-size: 1.1em;">+91 91762 93458</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></td>
+    <td><a href="https://www.linkedin.com/in/ananth-n-dev" target="_blank" style="color:#0A66C2; font-size: 1.1em;">linkedin.com/in/ananth-n-dev</a></td>
+  </tr>
+</table>
+
+---
+
+## 🌐 Portfolio & Projects
+
+> 🔗 Coming soon at: **[ananthn.dev](https://ananthn.dev)** (Under Construction)  
+> 🛠️ Powered by: **React**, **Next.js**, **Framer Motion**, and **Three.js**  
+
+---
+
+> **Built with love**, powered by caffeine ☕ and futuristic dreams ✨  
+> <p align="center"><img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" /></p>
+
