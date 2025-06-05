@@ -1,0 +1,89 @@
+body {
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #0A0A23; /* Midnight Black */
+    color: #E0E0E0; /* Light Silver for text */
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+header {
+    background-color: #1A1A3D; /* Royal Indigo */
+    color: #FFFFFF;
+    padding: 1rem;
+    text-align: center;
+    font-family: 'Sora', sans-serif;
+}
+
+header h1 {
+    margin: 0;
+    font-weight: 700;
+}
+
+#chat-area {
+    flex-grow: 1;
+    overflow-y: auto;
+    padding: 1rem;
+    border: 1px solid #4A4A7F; /* Sapphire Blue - for subtle borders */
+    margin: 1rem;
+    border-radius: 8px;
+    background-color: #0F0F28; /* Slightly lighter than Midnight Black for contrast */
+}
+
+/* Placeholder for chat messages styling */
+.message {
+    padding: 0.5rem;
+    margin-bottom: 0.5rem;
+    border-radius: 4px;
+}
+
+.user-message {
+    background-color: #2A2A5F; /* Darker Sapphire Blue */
+    text-align: right;
+    color: #FFFFFF;
+}
+
+.agent-message {
+    background-color: #3A3A6F; /* Lighter Sapphire Blue */
+    text-align: left;
+    color: #FFFFFF;
+}
+
+footer {
+    background-color: #1A1A3D; /* Royal Indigo */
+    padding: 1rem;
+    display: flex;
+    align-items: center;
+}
+
+#user-input {
+    flex-grow: 1;
+    padding: 0.75rem;
+    border: 1px solid #4A4A7F; /* Sapphire Blue */
+    border-radius: 4px;
+    background-color: #202040; /* Darker input background */
+    color: #E0E0E0;
+    font-family: 'Inter', sans-serif;
+}
+
+#user-input::placeholder {
+    color: #A0A0A0; /* Lighter placeholder text */
+}
+
+#send-button {
+    background-color: #4A4A7F; /* Sapphire Blue */
+    color: #FFFFFF;
+    border: none;
+    padding: 0.75rem 1.5rem;
+    margin-left: 0.5rem;
+    border-radius: 4px;
+    cursor: pointer;
+    font-family: 'Sora', sans-serif;
+    font-weight: 700;
+}
+
+#send-button:hover {
+    background-color: #5A5A9F; /* Lighter Sapphire Blue for hover */
+}
