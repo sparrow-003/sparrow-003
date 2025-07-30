@@ -58,7 +58,7 @@
 
 ## 🌐 Portfolio & Projects
 
-> 🔗 Coming soon at: **[ananthn.dev](https://v0-ananth-n-portfolio-website.vercel.app/)** (Under Construction)  
+> 🔗 Coming soon at: **[Ananth.dev](https://v0-ananth-n-portfolio-website.vercel.app/)** (Under Construction)  
 > 🛠️ Powered by: **React**, **Next.js**, **Framer Motion**, and **Three.js**  
 
 ---
