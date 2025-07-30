@@ -23,9 +23,9 @@
 ## 🚀 What I Do
 
 - 🎨 Designing **futuristic UI/UX** with Glassmorphism, Neumorphism & Framer Motion  
-- 🧠 Building AI-powered SaaS tools like <strong>Selena</strong>  
+- 🧠 Building AI-powered SaaS tools like <strong>CUSTOM SAAS </strong>  
 - 💼 Engineering enterprise-grade apps: CRM, Finance, Property, Healthcare, etc.  
-- ⚡ Automating tasks using **AI**, **LangChain**, and scalable APIs  
+- ⚡ Automating tasks using **AI**, **LangChain**,**LangGraph**,**Transformer** and scalable APIs  
 
 ---
 
