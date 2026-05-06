@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center" style="color:#F7DC6F; font-size: 1.6em; margin-top: -10px;">
-  🚀 Architecting Tomorrow | UI/UX Visionary | Full-Stack Student Developer
+  🚀 Architecting Tomorrow | UI/UX Visionary | Full-Stack Developer
 </h3>
 
 <p align="center">
